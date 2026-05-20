@@ -17,10 +17,10 @@ Submitted for: **Comprehensive Practice of IoT Transmission Layer**
 <img src="asset/lvgl_ui.jpg" width="550">
 
 ### Hardware & Networking
-<img src="asset/hardware_setup.jpg" width="550">
+<img src="asset/hardware_setup.jpg" width="300">
 
 ### Real‑Time Data Log
-<img src="asset/console_data.jpg" width="550">
+<img src="asset/console_data_log.jpg" width="300">
 
 ---
 
@@ -66,7 +66,7 @@ GEC6818 Development Board (LVGL UI)
 ---
 
 ## Project Structure
-'''text
+text
 smart_agri_environment_monitoring_system/
 ├── README.md                  # This file
 ├── asset/                     # Demo images
