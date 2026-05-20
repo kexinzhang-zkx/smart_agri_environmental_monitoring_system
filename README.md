@@ -1,1 +1,1 @@
-# intelligent_agricultural_environmental_monitoring_system
+# smart_agri_environmental_monitoring_system
