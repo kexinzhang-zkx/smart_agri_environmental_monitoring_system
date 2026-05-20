@@ -14,13 +14,13 @@ Submitted for: **Comprehensive Practice of IoT Transmission Layer**
 
 ## ✨Demo Results
 ### LVGL Graphical Interface
-<img src="assets/lvgl_ui.jpg" width="550">
+<img src="asset/lvgl_ui.jpg" width="550">
 
 ### Hardware & Networking
-<img src="assets/hardware_setup.jpg" width="550">
+<img src="asset/hardware_setup.jpg" width="550">
 
 ### Real‑Time Data Log
-<img src="assets/console_data.jpg" width="550">
+<img src="asset/console_data.jpg" width="550">
 
 ---
 
