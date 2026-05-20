@@ -66,10 +66,10 @@ GEC6818 Development Board (LVGL UI)
 ---
 
 ## Project Structure
-text
+```text
 smart_agri_environment_monitoring_system/
 ├── README.md                  # This file
-├── asset/                     # Demo images
+├── assets/                    # Demo images
 │   ├── hardware_setup.jpg
 │   ├── lvgl_ui.jpg
 │   └── console_data_log.jpg
@@ -82,8 +82,7 @@ smart_agri_environment_monitoring_system/
     ├── mqtt_wifi/             # WiFi + MQTT module
     ├── serial_parse/          # Serial data parser
     └── zigbee_collect/        # ZigBee collection and reporting
-'''
-
+```
 ---
 
 ## Conclusion
