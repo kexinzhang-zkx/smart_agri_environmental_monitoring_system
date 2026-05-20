@@ -1,0 +1,12 @@
+# ESP8266
+AT
+AT+GMR
+AT+CWMODE=1
+AT+CWJAP="wifi","password"
+
+# ZigBee
+AT+BAUD=115200
+AT+MODE=1
+AT+PANID=1234
+AT+ROLE=0   //协调器
+AT+ROLE=1   //终端
